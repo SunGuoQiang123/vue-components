@@ -15,12 +15,12 @@
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-vue": "^5.1.6",
+    "rollup-plugin-vue": "^6.0.0",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11",
     "yargs": "^15.3.1"
   },
   "dependencies": {
-    "@vue/component-compiler": "^4.2.0"
+    "@vue/component-compiler": "^4.2.4"
   }
 }
